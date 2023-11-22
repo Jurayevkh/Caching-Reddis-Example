@@ -48,6 +48,7 @@ public class UserControllers : ControllerBase
         }
 
 }
+```
 
 ## 🛠️ Usage
 
